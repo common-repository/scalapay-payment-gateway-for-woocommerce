@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: scalapay-class.php:158
+msgid "Scalapay payment"
+msgstr "Scalapay-Zahlung"
+
+# pay in 3
+msgid "Pay in 3 installments [price] without fees with [logo]"
+msgstr "Zahle in 3 Raten [price] ohne Gebühren mit [logo]"
+
+msgid "Receive your order now. Enjoy it and take your time to pay little by little."
+msgstr ""
+"Deine Bestellung wird sofort versendet. Genieße Deinen Einkauf und nimmt Dir Zeit, ihn langsam "
+"zu bezahlen."
+
+# pay in 4
+msgid "Pay in 4 installments [price] without fees with [logo]"
+msgstr "Zahle in 4 Raten [price] ohne Gebühren mit [logo]"
+
+# pay later
+msgid "Try first, pay later"
+msgstr "Erst probieren, dann bezahlen"
+
+msgid "Receive your order right away and pay it after 14 days. 0 interest. No explanation needed."
+msgstr "Erhalte deine Bestellung sofort und bezahle sie nach 14 Tagen. 0 Zinsen, 0 Erklärungen."
+
+msgid ""
+"We are really sorry, but this order cannot be approved by Scalapay. Payment failed. Choose "
+"another payment method."
+msgstr ""
+"Diese Bestellung kann von Scalapay leider nicht genehmigt werden. Die Zahlung war erfolglos. "
+"Bitte schließe deine Bestellung mit einer anderen Zahlungsmethode ab."
+
+#: scalapay-class.php:166
+msgid "Pay with Scalapay"
+msgstr "Zahlen Sie mit Scalapay"

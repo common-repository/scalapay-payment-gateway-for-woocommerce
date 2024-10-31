@@ -1,0 +1,1 @@
+<?php/** * Define the internationalization functionality. */class WC_Scalapay_Gateway_i18n {    public function load_plugin_textdomain() {        load_plugin_textdomain('wc-gateway-scalapay', false,basename(WC_SCALAPAY_GATEWAY_DIR_PATH) . '/languages/');    }}

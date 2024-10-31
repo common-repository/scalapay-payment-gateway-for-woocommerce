@@ -1,0 +1,1 @@
+<?phpdefine( 'WC_SCALAPAY_SANDBOX_URL', esc_url('https://integration.api.scalapay.com'));define( 'WC_SCALAPAY_SANDBOX_KEY', esc_attr('qhtfs87hjnc12kkos'));define( 'WC_SCALAPAY_PRODUCTION_URL', esc_url('https://api.scalapay.com'));
